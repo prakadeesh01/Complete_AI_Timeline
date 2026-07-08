@@ -101,10 +101,4 @@ ai_complete_timeline.md     # Main document (~12,000 words, 15 parts)
 
 ---
 
-## 📄 License
-
-This document is shared for educational and reference purposes. Feel free to use, share, and build upon it.
-
----
-
 *If this helped you — star the repo ⭐ and share it with someone entering the AI field.*
